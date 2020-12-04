@@ -1,5 +1,5 @@
-#arduino pro micro
-
+//arduino pro micro
+//https://www.drive2.ru/b/576063005045818805/
 #define wipesRead A3
 #define relay 2
 // the setup function runs once when you press reset or power the board
